@@ -1,27 +1,6 @@
-feature aaa
-
-feature bbb
-
-feature ccc
-
-release QA 1
-
-release QA 2
-
-test 1
-
+test1
 test2
 
-release QA3
+QA1 for 1.8.0
 
-release QA2 for 1.5.0
-
-release QA1 for 1.5.0
-
-release QA1 for 1.6.0
-
-release QA2 for 1.6.0
-
-release QA1 for 1.7.0
-
-release QA2 for 1.7.0
+QA2 for 1.8.0
